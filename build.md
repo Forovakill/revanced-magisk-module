@@ -1,4 +1,3 @@
-Twitter: 12.29.1-prod.01  
 YouTube-Morphe: 21.16.256  
 
 Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
@@ -6,10 +5,10 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: crimera/piko-newx/patches-3.51.0.mpp  
-[Changelog](https://github.com/crimera/piko-newx/releases/tag/v3.51.0)
+Patches: MorpheApp/morphe-patches/patches-1.46.0-dev.7.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0-dev.7)
 
-Patches: MorpheApp/morphe-patches/patches-1.46.0-dev.2.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0-dev.2)
+CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.1-all.jar    
 
-CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.0-all.jar    
+Skipped:  
+Patches: crimera/piko-newx/patches-3.51.0.mpp    
